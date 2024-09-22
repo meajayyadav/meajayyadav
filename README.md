@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meajayyadav&label=Profile%20views&color=0e75b6&style=flat" alt="meajayyadav" /> </p>
 
-- 🔭 I’m currently working on [Human Resources Management System](https://ajuyadav.netlify.app/)
+- 🔭 I’m currently working on [Human Resources Management System](https://ajayadav.netlify.app/)
 
 - 🌱 I’m currently learning **React, Next Js**
 
-- 👨‍💻 All of my projects are available at [https://ajuyadav.netlify.app/](https://ajuyadav.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ajayadav.netlify.app/](https://ajayadav.netlify.app/)
 
 - 📫 How to reach me **me.ajayadav@gmail.com**
 
-- 📄 Know about my experiences [https://ajuyadav.netlify.app/](https://ajuyadav.netlify.app/)
+- 📄 Know about my experiences [https://ajayadav.netlify.app/](https://ajayadav.netlify.app/)
 
 - ⚡ Fun fact **I Like to Play with Code.**
 
@@ -32,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meajayyadav&show_icons=true&locale=en" alt="meajayyadav" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meajayyadav&" alt="meajayyadav" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meajayyadav&" alt="meajayyadav" /></p
